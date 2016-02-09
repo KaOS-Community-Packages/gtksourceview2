@@ -2,7 +2,7 @@
 pkgname=gtksourceview2
 pkgver=2.10.5
 pkgrel=1
-pkgdesc="A text widget adding syntax highlighting and more to GNOME"
+pkgdesc="A text widget adding syntax highlighting and more"
 arch=('x86_64')
 license=('GPL')
 depends=('gtk2>=2.22.0' 'libxml2>=2.7.7')
